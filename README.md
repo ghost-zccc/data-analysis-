@@ -1,2 +1,18 @@
-# data-analysis-
-Personal data analysis projects using Python&amp;SQL
+# 数据分析作品集
+大数据管理与应用专业 | Python + SQL 业务数据分析项目
+
+## 🛠️ 技能栈
+Python(Pandas / Numpy / Matplotlib)、MySQL、数据清洗、数据可视化、业务指标分析
+
+## 📁 项目列表
+1. 用户订单数据分析｜Pandas
+简介：电商订单数据清洗，分析月度销售趋势，输出业务优化建议
+
+2. 业务指标SQL分析｜MySQL
+简介：多表关联查询，统计用户、订单核心业务指标
+
+3. 跨境电商韩国站点数据分析｜Python
+简介：跨境店铺销售数据分析，熟悉韩国电商业务场景
+
+## 📮 联系方式
+邮箱：3483878584@qq.com
